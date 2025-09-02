@@ -1,0 +1,11 @@
+title: "Low Code Development with Power Platform"
+author: "Abdulrasaq Lawani"
+date: "September 2025"
+lang: "en"
+documentclass: book
+fontsize: 12pt
+geometry: margin=1in
+toc: true
+toc-depth: 2
+colorlinks: true
+linkcolor: blue
