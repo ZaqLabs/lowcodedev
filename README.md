@@ -1,0 +1,1 @@
+This is repo for the site and ebook for the book "Low Code Development with Power Platform", it contains all or most of the materials for this book. 
