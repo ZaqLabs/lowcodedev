@@ -8,3 +8,6 @@ This is a list of items to look out for:
 7. Data Connectors
 8. AI Builder
 9. Dataverse
+
+References
+- https://en.wikipedia.org/wiki/Microsoft_Power_Platform
